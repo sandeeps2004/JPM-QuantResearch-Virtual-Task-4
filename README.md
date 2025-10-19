@@ -1,5 +1,7 @@
 # 🏦 Task 4: Bucket FICO scores
 
+# J.P. Morgan Quantitative Research Virtual Experience
+
 ### 📘 Overview
 This project builds an **advanced credit risk quantization model** that categorizes continuous **FICO scores** into discrete risk buckets.  
 The goal is to estimate the **Probability of Default (PD)** for each bucket and compare different quantization strategies.
